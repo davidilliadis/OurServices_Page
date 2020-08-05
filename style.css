@@ -1,0 +1,104 @@
+body {
+    background-size: cover;
+    background-position: center;
+    background-image:url(foto.jpeg);
+    width: 100%;
+    
+    
+    color: ghostwhite !important;
+    margin: 0;
+}
+
+html {
+    height: 100%;
+}
+
+.container-services {
+    
+    
+}
+
+#services {
+    margin:90px auto;
+    text-align: center;
+} 
+
+h1 {
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    
+}
+
+h1:after {
+    content: '';
+    background: ghostwhite;
+    display: block;
+    width: 150px;
+    margin: 10px auto;
+    height: 3px;
+    background: linear-gradient(to right, #4A00E0 0%, #8E2DE2 100%); 
+}
+
+.icon {
+    font-size: 40px;
+    margin: 20px auto;
+    padding: 20px;
+    height: 80px;
+    width: 80px;
+    border: 1px solid ghostwhite;
+    border-radius: 50%;
+}
+    
+.col-md-3:hover {
+    box-shadow: 5px 7px 9px -3px ghostwhite;
+    cursor: pointer;
+}
+   
+    
+
+    
+
+
+    
+    
+
+
+
+ 
+   
+    
+    
+    
+
+
+
+ 
+ 
+   
+   
+    
+  
+   
+    
+   
+    
+
+	
+    
+ 
+    
+    
+	
+
+ 
+    
+    
+    
+  
+
+    
+    
+	
+    
+       
+
